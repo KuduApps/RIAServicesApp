@@ -104,6 +104,7 @@
     <Compile Include="Models\User.cs" />
     <Compile Include="Models\RegistrationData.cs" />
     <Compile Include="Services\UserRegistrationService.cs" />
+    <Compile Include="Services\CustomRegularExpressionAttribute.cs" />
     <Compile Include="Models\Shared\User.shared.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -105,6 +105,9 @@
     <Compile Include="Models\RegistrationData.partial.cs" />
     <Compile Include="Controls\BusyIndicator.cs" />
     <Compile Include="Controls\VisualStates.cs" />
+    <Compile Include="..\RIAServiceApplication.Web\Services\CustomRegularExpressionAttribute.cs">
+      <Link>CustomRegularExpressionAttribute.cs</Link>
+    </Compile>
     <Compile Include="Helpers\DataFieldExtensions.cs" />
     <Compile Include="Helpers\NotOperatorValueConverter.cs" />
     <Compile Include="Helpers\TargetNullValueConverter.cs" />
